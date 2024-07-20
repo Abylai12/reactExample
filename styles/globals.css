@@ -2,6 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 .mid-content {
-  width: 90%;
+  width: 80%;
   margin: auto;
+}
+.zai li {
+  margin-bottom: 10px;
 }
