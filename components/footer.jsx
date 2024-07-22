@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
     <section className="bg-[#161C2D]">
-      <div className="flex mid-content p-20 justify-between">
-        <div>
+      <div className="md:flex sm:flex-none mid-content p-20 justify-between">
+        <div className="mb-8">
           <h1 className="mb-8 font-bold text-white text-[28px]">
             Brainwave.io
           </h1>
